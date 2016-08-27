@@ -1,3 +1,3 @@
-# CTF-Bit-Interger
+# CTF-IDSECCONF-2016
 
 CTF IdSecconf 2016
