@@ -1,0 +1,5 @@
+Service: 128.199.174.161
+Port: 17866
+ASLR: Off - Ubuntu 14.04.5 LTS
+
+*Tes Koneksi: #nc 128.199.174.161 17866
